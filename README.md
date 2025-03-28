@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shekhulogy
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning "React js" and "tailwind css"
+- 🌱 I’m currently learning "TypeScript"
 - 📫 How to reach me shikhar.patel.96@gmail.com
 
 <!---
